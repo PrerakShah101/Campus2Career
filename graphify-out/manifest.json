@@ -1,0 +1,56 @@
+{
+  "app.py": {
+    "mtime": 1792217566.0212111,
+    "seen": 1792217836.9027195,
+    "ast_hash": "00cb32c0c542c2613736ce4949854e93",
+    "semantic_hash": "00cb32c0c542c2613736ce4949854e93"
+  },
+  "data/dataset_metadata.json": {
+    "mtime": 1792217458.5032415,
+    "seen": 1792217836.9027276,
+    "ast_hash": "8270e9082d7a90cb773a2e373b3ec6e9",
+    "semantic_hash": "8270e9082d7a90cb773a2e373b3ec6e9"
+  },
+  "scripts/preprocess_jobs.py": {
+    "mtime": 1792217291.2853792,
+    "seen": 1792217836.9027312,
+    "ast_hash": "3455deb42a9f08d2af99a4deaa510957",
+    "semantic_hash": "3455deb42a9f08d2af99a4deaa510957"
+  },
+  "src/__init__.py": {
+    "mtime": 1792217214.0745378,
+    "seen": 1792217836.902733,
+    "ast_hash": "03fb2ed913e855ff9a6be42b692f333c",
+    "semantic_hash": "03fb2ed913e855ff9a6be42b692f333c"
+  },
+  "src/analytics.py": {
+    "mtime": 1792217498.9088347,
+    "seen": 1792217836.9027348,
+    "ast_hash": "2265cb5a1fdc3ca25828d94fe51a6486",
+    "semantic_hash": "2265cb5a1fdc3ca25828d94fe51a6486"
+  },
+  "src/data_loader.py": {
+    "mtime": 1792217378.9457693,
+    "seen": 1792217836.9027362,
+    "ast_hash": "52bf844da1b9d5daade10aae9d5bffee",
+    "semantic_hash": "52bf844da1b9d5daade10aae9d5bffee"
+  },
+  "src/llm_service.py": {
+    "mtime": 1792217453.1677864,
+    "seen": 1792217836.9027379,
+    "ast_hash": "a459db3262fccd8546cdc57f14210512",
+    "semantic_hash": "a459db3262fccd8546cdc57f14210512"
+  },
+  "src/skill_matcher.py": {
+    "mtime": 1792217408.4767878,
+    "seen": 1792217836.9027395,
+    "ast_hash": "e80a00107909c793c55439f0e9cf70ac",
+    "semantic_hash": "e80a00107909c793c55439f0e9cf70ac"
+  },
+  "tests/test_campus2career.py": {
+    "mtime": 1792217611.8948302,
+    "seen": 1792217836.9027407,
+    "ast_hash": "ab7506bad214c1c6191e1060883c8a36",
+    "semantic_hash": "ab7506bad214c1c6191e1060883c8a36"
+  }
+}

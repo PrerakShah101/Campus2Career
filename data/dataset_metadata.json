@@ -1,0 +1,13 @@
+{
+  "source": "Hugging Face - MichaelYitzchak/LinkedInJobPostings",
+  "license": "MIT License",
+  "total_scanned": 25001,
+  "total_retained": 350,
+  "is_fallback": false,
+  "roles_distribution": {
+    "Machine Learning Intern": 30,
+    "Data Scientist": 66,
+    "Data Analyst": 46,
+    "Software Engineer": 208
+  }
+}
